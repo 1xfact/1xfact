@@ -10,24 +10,31 @@ I'm especially drawn to solving complex problems with modern tools—whether it'
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+**🧑‍💻 Languages & Frameworks**  
+Node.js · React · React Native · Express · TypeScript · JavaScript · GraphQL · Python · Java · .NET (C#) · C++ · Swift  
+Bootstrap · TailwindCSS · Hibernate
 
-**Databases**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+**🔌 APIs**  
+REST · GraphQL · gRPC · Secure APIs with JWT & OAuth2
 
-**AI / LLM Tools**  
-LangChain · HuggingFace · Embeddings · FAISS · ChromaDB · Prompt Engineering · Jupyter
+**🏗️ Architecture & Patterns**  
+Microservices · Monolith · MVC · MVVM · Client-Server · Serverless
 
-**DevOps & Tools**  
-Docker · GitHub Actions · Vercel · Fly.io · Postman · VSCode
+**🤖 AI & ML**  
+LangChain · Python · Pinecone · Hugging Face · OpenAI · LLM Modeling · RAG · AI Agents
+
+**⚙️ Scaling & Performance**  
+Kubernetes · Redis · DB Sharding · CI/CD · NGINX · ALB
+
+**☁️ DevOps & Cloud**  
+AWS · GCP · Azure · Docker · Jenkins · Azure DevOps · Kubernetes
+
+**📊 Observability & Monitoring**  
+Prometheus · Grafana · Elasticsearch
+
+**🗄️ Databases**  
+MongoDB · MySQL · PostgreSQL · SQL Server · Oracle · NoSQL · ORMs
+
 
 ---
 
@@ -63,8 +70,9 @@ Docker · GitHub Actions · Vercel · Fly.io · Postman · VSCode
 
 ## 📫 Let's Connect
 
+- 🌍 [Website](https://himatin.me)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/matinrahman/))
-- 𝕏 [x(twitter)](https://x.com/1xfact)
+- 𝕏  [X (twitter)](https://x.com/1xfact)
 - 📧 [Email Me](matin.rahman@gmail.com)  
 
 ---
