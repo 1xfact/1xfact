@@ -71,7 +71,7 @@ MongoDB · MySQL · PostgreSQL · SQL Server · Oracle · NoSQL · ORMs
 ## 📫 Let's Connect
 
 - 🌍 [Website](https://himatin.me)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/matinrahman/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/matinrahman/)
 - 𝕏  [X (twitter)](https://x.com/1xfact)
 - 📧 [Email Me](matin.rahman@gmail.com)  
 
